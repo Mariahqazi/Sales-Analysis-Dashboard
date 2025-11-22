@@ -42,8 +42,12 @@ It highlights key KPIs, monthly sales trends, geographic insights, and product-l
 ---
 
 ## 🖼 Dashboard Preview
+![Sales Dashboard](Screenshot/Sales_Analysis_Dashboard_Overview.png)
 
-📈 Business Impact
+
+---
+
+## 📈 Business Impact
 
 1. Identifies top-performing regions, retailers, and product categories
 
