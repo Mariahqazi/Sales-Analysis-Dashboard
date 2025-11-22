@@ -42,7 +42,7 @@ It highlights key KPIs, monthly sales trends, geographic insights, and product-l
 ---
 
 ## 🖼 Dashboard Preview
-![Sales Dashboard](Screenshot/Sales_Analysis_Dashboard_Overview.png)
+![Sales-Analysis-Dashboard](Screenshots/Sales_Analysis_Dashboard.png)
 
 
 ---
